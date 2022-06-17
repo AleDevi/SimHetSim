@@ -1,0 +1,2 @@
+# SimHetSim
+Heterozygosity-Similarty simulator
